@@ -1,0 +1,26 @@
+{
+	"Name": "TcNo Account Switcher",
+	"Version": "0.1.0.0",
+	"Author": "Onyx",
+	"Actions": [
+		{
+			"Name": "Switch Account",
+			"UUID": "com.onyx.tcnoswitcher.switch",
+			"Icon": "imgs/actions/switch/icon",
+			"Tooltip": "Switch to a TcNo Account Switcher account.",
+			"PropertyInspectorPath": "ui/switch.html",
+			"Controllers": ["Keypad"],
+			"States": [{ "Image": "imgs/actions/switch/key", "TitleAlignment": "center" }]
+		}
+	],
+	"Category": "TcNo Account Switcher",
+	"CategoryIcon": "imgs/plugin/category-icon",
+	"CodePath": "bin/plugin.js",
+	"Description": "Switch TcNo Account Switcher accounts from a Stream Dock key.",
+	"Icon": "imgs/plugin/marketplace",
+	"SDKVersion": 1,
+	"Software": { "MinimumVersion": "6.5" },
+	"OS": [{ "Platform": "windows", "MinimumVersion": "10" }],
+	"Nodejs": { "Version": "20" },
+	"UUID": "com.onyx.tcnoswitcher"
+}
