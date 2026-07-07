@@ -1,4 +1,4 @@
-# TcNo Account Switcher — StreamDock / Stream Deck Plugin
+# TcNo Account Switcher - StreamDock / Stream Deck Plugin
 
 Switch [TcNo Account Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) accounts (Steam, Epic Games, EA Desktop, Ubisoft) directly from a StreamDock or Elgato Stream Deck key.
 
@@ -17,7 +17,7 @@ Switch [TcNo Account Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) acco
 ## Installation
 
 1. Download the latest `com.onyx.tcnoswitcher.sdPlugin` release.
-2. Rename the `.zip` file's extension to `.sdPlugin` (Windows will warn you — confirm the rename).
+2. Rename the `.zip` file's extension to `.sdPlugin` (Windows will warn you - confirm the rename).
 3. Double-click the `.sdPlugin` file, or copy the folder into your plugins directory:
    - StreamDock: `%AppData%\HotSpot\StreamDock\plugins\`
    - Stream Deck: `%AppData%\Elgato\StreamDeck\Plugins\`
