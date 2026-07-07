@@ -10,7 +10,7 @@
 			"Tooltip": "Switch to a TcNo Account Switcher account.",
 			"PropertyInspectorPath": "ui/switch.html",
 			"Controllers": ["Keypad"],
-			"States": [{ "Image": "imgs/actions/switch/key", "TitleAlignment": "center" }]
+			"States": [{ "Image": "imgs/actions/switch/key", "TitleAlignment": "middle" }]
 		}
 	],
 	"Category": "TcNo Account Switcher",
@@ -18,7 +18,7 @@
 	"CodePath": "bin/plugin.js",
 	"Description": "Switch TcNo Account Switcher accounts from a Stream Dock key.",
 	"Icon": "imgs/plugin/marketplace",
-	"SDKVersion": 1,
+	"SDKVersion": 2,
 	"Software": { "MinimumVersion": "6.5" },
 	"OS": [{ "Platform": "windows", "MinimumVersion": "10" }],
 	"Nodejs": { "Version": "20" },
