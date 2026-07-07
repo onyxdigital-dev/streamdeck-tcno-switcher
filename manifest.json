@@ -18,8 +18,8 @@
 	"CodePath": "bin/plugin.js",
 	"Description": "Switch TcNo Account Switcher accounts from a Stream Dock key.",
 	"Icon": "imgs/plugin/marketplace",
-	"SDKVersion": 2,
-	"Software": { "MinimumVersion": "6.5" },
+	"SDKVersion": 3,
+	"Software": { "MinimumVersion": "6.9" },
 	"OS": [{ "Platform": "windows", "MinimumVersion": "10" }],
 	"Nodejs": { "Version": "20" },
 	"UUID": "com.onyx.tcnoswitcher"
