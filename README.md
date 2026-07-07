@@ -16,7 +16,10 @@ Switch [TcNo Account Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) acco
 
 ## Installation
 
-Download the `.sdPlugin` file from the [Releases](../../releases) page and open it.
+Download the release for your device from the [Releases](../../releases) page and open it:
+
+- StreamDock: `.sdPlugin` file
+- Elgato Stream Deck: `.streamDeckPlugin` file
 
 ## Usage
 
