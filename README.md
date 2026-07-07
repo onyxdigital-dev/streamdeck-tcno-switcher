@@ -16,12 +16,7 @@ Switch [TcNo Account Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) acco
 
 ## Installation
 
-1. Download the latest `com.onyx.tcnoswitcher.sdPlugin` release.
-2. Rename the `.zip` file's extension to `.sdPlugin` (Windows will warn you - confirm the rename).
-3. Double-click the `.sdPlugin` file, or copy the folder into your plugins directory:
-   - StreamDock: `%AppData%\HotSpot\StreamDock\plugins\`
-   - Stream Deck: `%AppData%\Elgato\StreamDeck\Plugins\`
-4. Restart StreamDock / Stream Deck.
+Download the `.sdPlugin` file from the [Releases](../../releases) page and open it.
 
 ## Usage
 
