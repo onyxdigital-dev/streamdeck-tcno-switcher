@@ -2,6 +2,12 @@
 
 Switch [TcNo Account Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) accounts (Steam, Epic Games, EA Desktop, Ubisoft) directly from a StreamDock or Elgato Stream Deck key.
 
+## Gallery
+
+![Overview](gallery/gallery-1-overview.png)
+![How it works](gallery/gallery-2-how-it-works.png)
+![What's included](gallery/gallery-3-whats-included.png)
+
 ## What it does
 
 - One action, **Switch Account**: assign it a saved TcNo account, press the key, and TcNo switches to that account.
