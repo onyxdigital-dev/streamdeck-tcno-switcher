@@ -1,6 +1,6 @@
 {
 	"Name": "TcNo Account Switcher",
-	"Version": "1.0.0",
+	"Version": "1.0.1",
 	"Author": "Onyx",
 	"Actions": [
 		{
@@ -16,7 +16,7 @@
 	"Category": "TcNo Account Switcher",
 	"CategoryIcon": "imgs/plugin/category-icon",
 	"CodePath": "bin/plugin.js",
-	"Description": "Switch TcNo Account Switcher accounts from a Stream Dock key.",
+	"Description": "Switch Steam, Epic Games, EA Desktop, or Ubisoft accounts via TcNo Account Switcher, straight from a Stream Dock key. Pick an account from a live dropdown and the key shows its name and platform icon.",
 	"Icon": "imgs/plugin/marketplace",
 	"SDKVersion": 3,
 	"Software": { "MinimumVersion": "6.9" },
